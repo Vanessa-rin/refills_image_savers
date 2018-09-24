@@ -1,0 +1,4 @@
+<launch>
+  <node name="counting_image_save" pkg="refills_counting_image_saver" type="refills_counter_image_saver_server.py" output="screen"/>
+</launch>
+
